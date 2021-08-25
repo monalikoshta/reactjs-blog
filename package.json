@@ -1,0 +1,20 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "description": "TASKS",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-tushar/react-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-tushar/react-training/issues"
+  },
+  "homepage": "https://github.com/s-tushar/react-training#readme"
+}
